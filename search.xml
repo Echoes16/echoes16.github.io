@@ -1,86 +1,38 @@
 <?xml version="1.0" encoding="utf-8"?>
-<search> 
-  
-  
-    
-    <entry>
-      <title>GTA滤镜</title>
-      <link href="/2020/04/20/GTA%E6%BB%A4%E9%95%9C/"/>
-      <url>/2020/04/20/GTA%E6%BB%A4%E9%95%9C/</url>
-      
-        <content type="html"><![CDATA[<h2 id="介绍"><a href="#介绍" class="headerlink" title="介绍"></a>介绍</h2><p>虽然跟REDUX等相比还是差了点，但是N卡自带滤镜不需要额外安装插件使用，对配置也没什么要求。</p><h3 id="N卡滤镜使用方法"><a href="#N卡滤镜使用方法" class="headerlink" title="N卡滤镜使用方法"></a>N卡滤镜使用方法</h3><p>N卡滤镜打开方法：GeForce Experience设置-常规-启用实验性功能-游戏内覆盖打开。<br>进游戏按Alt+F3呼出面板，自行设置即可。</p><h3 id="画质设置信息"><a href="#画质设置信息" class="headerlink" title="画质设置信息"></a>画质设置信息</h3><p>有人说开了N卡滤镜掉帧，我自己用感觉没什么影响（本人配置：GeForce GTX1050 Ti  16GB RAM），帧率能保持在近60帧左右。<br>下面是我自己的设置截图：<br><img src="https://s1.ax1x.com/2020/04/20/JQ4qyt.png" alt="画质设置"></p><p><img src="https://s1.ax1x.com/2020/04/20/JQYwVS.png" alt="游戏截图"></p><h2 id="画质对比"><a href="#画质对比" class="headerlink" title="画质对比"></a>画质对比</h2><p>下面是自己调的两个滤镜，感觉还不错，一偏冷色调（个人感觉更真实点，原画颜色基调太灰了），二偏亮丽（白天有点刺眼，适合晚上，比原画可以看的更清楚）。</p><h3 id="对比一"><a href="#对比一" class="headerlink" title="对比一"></a>对比一</h3><p><img src="https://s1.ax1x.com/2020/04/20/JQGOQx.png" alt="原画一"></p><p><img src="https://s1.ax1x.com/2020/04/20/JQGHY9.png" alt="1.滤镜一"></p><p><img src="https://s1.ax1x.com/2020/04/20/JQJSTe.png" alt="1.滤镜二"></p><h3 id="对比二"><a href="#对比二" class="headerlink" title="对比二"></a>对比二</h3><p><img src="https://s1.ax1x.com/2020/04/20/JQJqAg.png" alt="原画二"></p><p><img src="https://s1.ax1x.com/2020/04/20/JQJ5ct.png" alt="2.滤镜一"></p><p><img src="https://s1.ax1x.com/2020/04/20/JQY14H.png" alt="2.滤镜二"></p><h2 id="滤镜配置"><a href="#滤镜配置" class="headerlink" title="滤镜配置"></a>滤镜配置</h2><h3 id="滤镜1"><a href="#滤镜1" class="headerlink" title="滤镜1"></a>滤镜1</h3><p>颜色：色调30%&emsp;色调强度40%&emsp;温度16&emsp;亮丽40.7<br>曝光/对比度：曝光-4%&emsp;对比度31%&emsp;亮点-62%&emsp;阴影-40%&emsp;灰度-4%</p><h3 id="滤镜2"><a href="#滤镜2" class="headerlink" title="滤镜2"></a>滤镜2</h3><p>颜色：色调30%&emsp;色调强度20%&emsp;温度12&emsp;亮丽60<br>曝光/对比度：曝光-18%&emsp;对比度19%&emsp;亮点21%&emsp;阴影23%&emsp;灰度91%<br>使明朗：使明朗50%&emsp;忽略胶片颗粒30%</p>]]></content>
-      
-      
+<search>
+  <entry>
+    <title><![CDATA[GTA滤镜]]></title>
+    <url>%2F2020%2F04%2F20%2FGTA%E6%BB%A4%E9%95%9C%2F</url>
+    <content type="text"><![CDATA[介绍虽然跟REDUX等相比还是差了点，但是N卡自带滤镜不需要额外安装插件使用，对配置也没什么要求。 N卡滤镜使用方法N卡滤镜打开方法：GeForce Experience设置-常规-启用实验性功能-游戏内覆盖打开。进游戏按Alt+F3呼出面板，自行设置即可。 画质设置信息有人说开了N卡滤镜掉帧，我自己用感觉没什么影响（本人配置：GeForce GTX1050 Ti 16GB RAM），帧率能保持在近60帧左右。下面是我自己的设置截图： 画质对比下面是自己调的两个滤镜，感觉还不错，一偏冷色调（个人感觉更真实点，原画颜色基调太灰了），二偏亮丽（白天有点刺眼，适合晚上，比原画可以看的更清楚）。 对比一 对比二 滤镜配置滤镜1颜色：色调30%&emsp;色调强度40%&emsp;温度16&emsp;亮丽40.7曝光/对比度：曝光-4%&emsp;对比度31%&emsp;亮点-62%&emsp;阴影-40%&emsp;灰度-4% 滤镜2颜色：色调30%&emsp;色调强度20%&emsp;温度12&emsp;亮丽60曝光/对比度：曝光-18%&emsp;对比度19%&emsp;亮点21%&emsp;阴影23%&emsp;灰度91%使明朗：使明朗50%&emsp;忽略胶片颗粒30%]]></content>
       <categories>
-          
-          <category> 游戏 </category>
-          
-          <category> 单机 </category>
-          
+        <category>youxi</category>
+        <category>danji</category>
       </categories>
-      
-      
-        <tags>
-            
-            <tag> 画质 </tag>
-            
-            <tag> 滤镜 </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>测试运行</title>
-      <link href="/2020/04/18/%E6%B5%8B%E8%AF%95%E8%BF%90%E8%A1%8C/"/>
-      <url>/2020/04/18/%E6%B5%8B%E8%AF%95%E8%BF%90%E8%A1%8C/</url>
-      
-        <content type="html"><![CDATA[<p>Welcome to Hexo!</p>]]></content>
-      
-      
+      <tags>
+        <tag>huazhi</tag>
+        <tag>lvjing</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title><![CDATA[测试运行]]></title>
+    <url>%2F2020%2F04%2F18%2F%E6%B5%8B%E8%AF%95%E8%BF%90%E8%A1%8C%2F</url>
+    <content type="text"><![CDATA[Welcome to Hexo!]]></content>
       <categories>
-          
-          <category> 其他 </category>
-          
+        <category>其他</category>
       </categories>
-      
-      
-        <tags>
-            
-            <tag> 测试 </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>Hello World</title>
-      <link href="/2018/12/18/hello-world/"/>
-      <url>/2018/12/18/hello-world/</url>
-      
-        <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><pre><code class="bash">$ hexo new &quot;My New Post&quot;</code></pre><p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><pre><code class="bash">$ hexo server</code></pre><p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="noopener">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><pre><code class="bash">$ hexo generate</code></pre><p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="noopener">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><pre><code class="bash">$ hexo deploy</code></pre><p>More info: <a href="https://hexo.io/docs/deployment.html" target="_blank" rel="noopener">Deployment</a></p>]]></content>
-      
-      
+      <tags>
+        <tag>测试</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title><![CDATA[Hello World]]></title>
+    <url>%2F2018%2F12%2F18%2Fhello-world%2F</url>
+    <content type="text"><![CDATA[Welcome to Hexo! This is your very first post. Check documentation for more info. If you get any problems when using Hexo, you can find the answer in troubleshooting or you can ask me on GitHub. Quick StartCreate a new post$ hexo new &quot;My New Post&quot; More info: Writing Run server$ hexo server More info: Server Generate static files$ hexo generate More info: Generating Deploy to remote sites$ hexo deploy More info: Deployment]]></content>
       <categories>
-          
-          <category> 介绍 </category>
-          
+        <category>介绍</category>
       </categories>
-      
-      
-        <tags>
-            
-            <tag> 测试 </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-  
-  
+      <tags>
+        <tag>测试</tag>
+      </tags>
+  </entry>
 </search>
